@@ -1,3 +1,8 @@
+/*
+Author: Husrav Khomidov
+File: heeHaw.js
+ */
+
 function heeHaw() {
 
     //Get user's input and declare to num
